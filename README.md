@@ -1,5 +1,3 @@
-### watch the Project Demo by clicking on the below video
-[![Watch the video](https://img.youtube.com/vi/0XCSPLJAwHw/maxresdefault.jpg)](https://youtu.be/0XCSPLJAwHw)
 ### Install the  following applications in your system
  1. Ganache
  2. Metamak (chrome extension)
@@ -89,26 +87,3 @@ We know that the data in blockchain is immutable i.e once the data is written in
 
 ![image 2](./images/3.png)
 Figure 3: An image showing locally decrypted data retrieved from the blockchain in encrypted form.
-
-# ACKNOWLEDGEMENT
-
-This research was supported by Government Engineering College, Raipur and We are thankful to our guide Asst. Prof. Priyanka Sahu who provided expertise that greatly assisted the research.
-
-# REFERENCES
-
-- “Blockchain”  https://en.wikipedia.org/wiki/Blockchain
-- “Ethereum” https://ethereum.org/en/
-- “Smart Contracts”  https://ethereum.org/en/developers/docs/smart-contracts/
-- “SHA-256” https://en.wikipedia.org/wiki/SHA-2
-- “AES”  https://www.educative.io/edpresso/what-is-the-aes-algorithm
-- "How to Build Ethereum Dapp with React.js · Complete Step-By-Step Guide" https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial
-
-# Developer's details
-
-1. Vishwas Paikra https://github.com/vishwaspaikra007
-2. Satyam Lachhwani https://github.com/Satyam1203
-3. Diksha Verma https://github.com/dikshaverma011
-
-
-
-
